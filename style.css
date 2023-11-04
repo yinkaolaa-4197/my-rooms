@@ -1,0 +1,107 @@
+body {
+  font-family: Impact;
+  background-color:;
+}
+
+.roomname {
+  font-size: 30px;
+  text-align: center;
+}
+
+.room {
+  position: relative;
+  height: 200px;
+  border: 1px solid black;
+}
+
+.description {
+  padding: 10px;
+}
+
+.tvroom{
+position:absolute;
+height:100px;
+width:50px;
+bottom:288px;
+border:4px ridge black;
+left:15px;
+background-color:red;
+}
+
+.gameroom{
+position:absolute;
+height:100px;
+width:50px;
+bottom:288px;
+border:4px ridge black;
+right:15px;
+background-color:green;
+
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
