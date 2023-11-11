@@ -12,7 +12,6 @@ body {
   position: relative;
   height: 200px;
   border: 1px solid black;
-  background:url("space-invader.png");
 }
 
 .room2{
